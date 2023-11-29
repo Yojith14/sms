@@ -28,7 +28,7 @@ const Footer = () => {
               <a href="#">Book-IT</a>
             </p>
             <p>
-              <a href="https://akshatjalan.github.io/akshat/">Portfolio</a>
+              <a href="https://manumanu2003.github.io/">Portfolio</a>
             </p>
           </MDBCol>
 
@@ -38,7 +38,7 @@ const Footer = () => {
               <strong>Contact</strong>
             </h6>
             <p>
-              <i className="fa fa-envelope mr-3" /> &nbsp;jalanakshat2@gmail.com
+              <i className="fa fa-envelope mr-3" /> &nbsp;manu381008@gmail.com
             </p>
             <p>
               <a
@@ -55,7 +55,7 @@ const Footer = () => {
           <MDBCol md="8" lg="8">
             <p className="text-center text-md-left grey-text">
               &copy; {new Date().getFullYear()} Made by
-              <a href=""> Akshat Jalan </a>
+              <a href=""> Team k sensative </a>
             </p>
           </MDBCol>
           <MDBCol md="4" lg="4" className="ml-lg-0">
@@ -64,7 +64,7 @@ const Footer = () => {
                 <li className="list-inline-item">
                   <a
                     className="btn-floating btn-sm rgba-white-slight mx-1"
-                    href="http://github.com/Akshatjalan"
+                    href="https://github.com/"
                   >
                     <i className="fab fa-github" />
                   </a>
@@ -80,7 +80,7 @@ const Footer = () => {
                 <li className="list-inline-item">
                   <a
                     className="btn-floating btn-sm rgba-white-slight mx-1"
-                    href="https://www.instagram.com/akshatxjalan/"
+                    href="https://www.instagram.com/accounts/login/"
                   >
                     <i className="fab fa-instagram" />
                   </a>
